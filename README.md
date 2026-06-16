@@ -12,6 +12,8 @@ This engine utilizes an enterprise-grade gradient boosting framework trained on 
 ├── data/
 │   ├── egfr_raw_data.csv          <- Curated API pull from ChEMBL203
 │   └── egfr_processed_data.csv    <- Featurized 1026-dimension matrix
+├── images/
+│   └── egfr-preview.png 
 ├── models/
 │   └── catboost_egfr_model.cbm    <- Serialized gradient boosted tree weights
 ├── src/
