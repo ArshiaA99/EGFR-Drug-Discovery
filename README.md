@@ -1,3 +1,4 @@
+![EGFR Drug Discovery Banner](images/egfr-preview.png)
 # 🧬 Human EGFR Potency Prediction Engine
 
 A production-ready, ligand-based virtual screening pipeline and FastAPI deployment framework designed to predict small-molecule bioactivity ($pIC_{50}$) against the **Human Epidermal Growth Factor Receptor (EGFR)**. 
